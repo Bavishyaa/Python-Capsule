@@ -1,0 +1,1 @@
+from ten.armstrongNo import *
