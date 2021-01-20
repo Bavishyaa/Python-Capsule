@@ -1,1 +1,1 @@
-from armstrong.armstrongNo import *
+from bavi_armstrong.armstrongNo import *
